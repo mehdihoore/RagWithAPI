@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+astrapy
+openai
+scikit-learn
+tenacity
+langchain
+google-api-python-client
+beautifulsoup4
+Wikipedia-API
+pydantic
+pydantic-settings
